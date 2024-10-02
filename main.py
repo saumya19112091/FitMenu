@@ -6,3 +6,5 @@ app = FastAPI()
 def test():
     print("hello world")
     return {"hello": "world"}
+
+
